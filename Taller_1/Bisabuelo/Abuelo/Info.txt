@@ -1,0 +1,5 @@
+Nombre: Orlando
+Apellido: Grisales
+Estatura: 1.76 cm
+RH: o+
+FechaNacimiento: 10/08/1921

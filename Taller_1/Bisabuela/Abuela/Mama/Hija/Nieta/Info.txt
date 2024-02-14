@@ -1,0 +1,6 @@
+Nombre: sofia
+Apellido: mejia
+Estatura: 1.60 cm
+RH: A+
+fechaNacimiento: 03/05/2006
+

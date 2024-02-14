@@ -1,0 +1,6 @@
+Nombre: Viviana
+Apellido: Ramirez
+Estatura: 1.65 cm
+RH: 0-
+fechaNacimiento: 30/06/1960
+

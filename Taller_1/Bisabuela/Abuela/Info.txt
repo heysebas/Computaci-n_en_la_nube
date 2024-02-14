@@ -1,0 +1,6 @@
+Nombre: Andrea
+Apellido: Marin
+Estatura: 1.69 cm
+RH: o+
+fechaNacimiento: 19/06/1940
+

@@ -1,0 +1,5 @@
+Nombre: Gustavo
+Apellido: Montoya
+Estatura: 1.69 cm
+RH: A+
+FechaN000acimiento: 07/06/1900

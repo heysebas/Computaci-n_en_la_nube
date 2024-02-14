@@ -1,0 +1,5 @@
+Nombre: Nicolas
+Apellido: Melecio
+Estatura: 1.50 cm
+RH: o+
+FechaNacimiento: 01/15/2006

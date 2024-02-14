@@ -1,0 +1,6 @@
+Nombre: Calorina
+Apellido: mejia
+Estatura: 1.68 cm
+RH: 0+
+fechaNacimiento: 20/03/1986
+

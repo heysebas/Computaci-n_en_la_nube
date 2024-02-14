@@ -1,0 +1,6 @@
+Nombre: Nancy
+Apellido: Arias
+Estatura: 1.60 cm
+RH: A-
+fechaNacimiento: 19/06/1920
+
